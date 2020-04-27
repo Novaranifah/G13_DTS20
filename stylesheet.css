@@ -272,3 +272,29 @@ a {
 .item b{
 	color: #50524e;
 }
+
+/*CSS FOR EXTRA 1*/
+
+.ext1-container {
+  background-color:white;
+  width:1000px;
+  height:180px;
+  margin-top:0px;
+  margin-left:auto;
+  margin-right:auto;
+  border: 1px solid #3b5998;
+}
+
+.ext1-container h1 {
+  text-align:center;
+  line-height:50px;
+  color:#3b5998;
+}
+
+.ext1-container p {
+  text-align:center;
+  line-height:0px;
+  color:#3b5998;
+}
+
+/*CSS FOR EXTRA 1 END HERE*/
